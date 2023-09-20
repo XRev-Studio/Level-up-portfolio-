@@ -1,52 +1,94 @@
-# Ball Sort
+![LEVEL UP GAME Banner](images/levelup1.png)
 
-**BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+**Embark on an Epic Journey through the Land of Energy!**
 
-![Ball Sort Game Banner](images/image1.png)
+## 📌 Table of Contents
 
-## About Ball Sort
+1. [About the Game](#about-the-game)
+2. [Features](#features)
+3. [Gameplay](#gameplay)
+4. [Types of Energy](#types-of-energy)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contribution](#contribution)
+8. [License](#license)
+9. [Contact](#contact)
+10. [Acknowledgements](#acknowledgements)
 
-Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logical thinking and color sorting skills to the test. Whether you're looking for a quick mental workout or a relaxing way to unwind, this unique color sorting game is the perfect choice. Play anytime, anywhere, and enjoy a day filled with colorful ball sorting fun.
+## ⚡️ About the Game
 
-## Details
+Welcome to the "Land of Energy," known as "LEVEL UP GAME," where science meets adventure! This level-up game takes you on a thrilling journey through a world brimming with different forms of energy. Your mission is to explore, learn, and harness these energies to level up your character.
+
+## 🎮 Features
 
 ### Description
 
-- Dive into the world of color sorting games with Ball Sort Puzzle Color Tubes.
-- Test your color sorting skills in this engaging and mind-bending ball sorting puzzle.
-- Experience the soothing effect of this game, perfect for relieving daily stress.
-- Easy to play, challenging to master - can you become the ultimate champion?
-- Strategically tap to move balls between bottles until they're perfectly sorted by color.
-- Unlock the excitement of becoming a Ball Sort Puzzle Color Tubes expert.
-
-### Gameplay
-
-- Pick up the top ball by tapping any bottle, then transfer it to another bottle.
-- Balls can only be stacked in a bottle with the same color on top and enough space.
-- Victory awaits when all balls of the same color are sorted into a single bottle.
-- Each bottle can hold a maximum of 4 balls.
+- **Educational Adventure**: Learn about various types of energy while having fun in an immersive gaming environment.
+- **Progressive Gameplay**: Start with basic energy types and advance to more complex forms as you level up.
+- **Customizable Avatars**: Personalize your character and embark on energy-rich quests.
 
 ### Key Features
 
-- Intuitive one-finger control: Simply tap to sort the balls.
-- Restart your current level anytime, giving you the chance to perfect your strategy.
-- Add an extra bottle by clicking "Add" to enhance your sorting capabilities.
-- Enjoy a penalty-free and time-limit-free gaming experience.
+- **Potential and Kinetic Energy**: Explore the dynamics of motion, from potential to kinetic energy.
+- **Chemical Energy through Food**: Solve puzzles and gather food items to unlock chemical energy.
+- **Elastic Energy in Food**: Discover how energy can be stored and released in elastic objects.
+- **Heat Energy**: Brave the challenges of heat and utilize it to overcome obstacles.
 
-## Gallery
+### Screenshots
 
-![Ball Sort Game Screenshot 1](images/image2.png)
-![Ball Sort Game Screenshot 2](images/image3.png)
+![Potential and Kinetic Energy](images/potential_kinetic.png)
+![Chemical Energy through Food](images/chemical_energy.png)
 
-<!--## Video Showcase
+## 🎯 Gameplay
 
-<a href="https://www.youtube.com/watch?v=drg9xEKpbow" target="_blank"><img src="https://img.youtube.com/vi/drg9xEKpbow/0.jpg" 
-alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>  -->
+In the "Land of Energy," you'll:
 
-## Links
+1. **Begin with Potential Energy**: Start your journey with potential energy, learning the basics of energy conversion.
+2. **Collect Food for Chemical Energy**: Solve puzzles to find food items, converting them into valuable chemical energy.
+3. **Explore Elastic Objects**: Encounter elastic objects and uncover the secrets of storing and releasing energy.
+4. **Master Heat Energy**: Tackle heat-based challenges and harness this powerful energy source.
 
-- [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
+## ⚛️ Types of Energy
 
----
+In the game, you'll encounter various forms of energy, including:
 
-© XRev Studio. All rights reserved.
+- **Potential Energy**: Energy of position or stored energy.
+- **Kinetic Energy**: Energy of motion.
+- **Chemical Energy**: Stored in food items you collect.
+- **Elastic Energy**: Found in springy objects.
+- **Heat Energy**: Overcome challenges involving heat.
+
+## 💻 Installation
+
+**To embark on your energy-filled adventure:**
+
+1. **Requirements**
+   - Compatible gaming platform or PC.
+   - Internet connection for updates and multiplayer mode.
+
+2. **Setup**
+   - Download the "Land of Energy" game from our official website.
+   - Follow the installation instructions provided on the website.
+
+## 🎮 Usage
+
+**Getting started with the "Land of Energy" is a breeze:**
+
+1. Launch the game on your chosen platform.
+2. Create your character and dive into the vibrant world of energy.
+
+## 🤝 Contribution
+
+We welcome contributions from passionate gamers and developers. Whether you have ideas for new energy types, gameplay enhancements, or bug fixes, your contributions can help make this game even more exciting.
+
+## 📃 License
+
+This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## 📞 Contact
+
+If you have questions, feedback, or need assistance, please contact us at [contact@example.com](mailto:contact@example.com).
+
+## 🙏 Acknowledgements
+
+We extend our gratitude to the gaming and science communities for their support in making the "Land of Energy" an educational and entertaining adventure.
