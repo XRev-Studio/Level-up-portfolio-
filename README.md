@@ -36,8 +36,8 @@ Welcome to the "Land of Energy," known as "LEVEL UP GAME," where science meets a
 
 ### Screenshots
 
-![Potential and Kinetic Energy](levelup3.png)
-![Chemical Energy through Food](leveup2.png)
+![Potential and Kinetic Energy](images/levelup3.png)
+![Chemical Energy through Food](images/leveup2.png)
 
 ## 🎯 Gameplay
 
